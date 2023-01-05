@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Device screen width: {deviceWidth}</h2>
+      <h1>Device screen width: {deviceWidth}</h1>
 
       Credits: <a target={'_blank'} href="https://linktr.ee/sahilrajput03">Sahil Rajput</a>
     </div>
